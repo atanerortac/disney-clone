@@ -2,7 +2,13 @@ Disney+ clone built using ReactJS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-I dont own any rights from Disney as a company, this platform was made for educational purposes and to be shown as a piece of portfolio. There are not any commercial or monetary purposes.
+I dont own any rights from Disney as a company, this project was made for educational purposes.
+
+## ScreenShots
+
+![Capture](https://user-images.githubusercontent.com/86429134/133934488-97ab981d-e3da-4d63-abb3-b0d2042ecc5e.JPG)
+![Capture2](https://user-images.githubusercontent.com/86429134/133934490-bad773db-1534-4ab3-acb7-60b5452ab256.JPG)
+![Capture3](https://user-images.githubusercontent.com/86429134/133934493-e3a10d98-c09d-40fa-9501-488303847781.JPG)
 
 ## Available Scripts
 
