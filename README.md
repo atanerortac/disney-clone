@@ -1,20 +1,12 @@
 Disney+ clone built using ReactJS.
 
-Check it out [live](https://disney-clone-d18c9.web.app/).
-
-or
-
 Check it out [live](https://disney-clone-ao.vercel.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 I dont own any rights from Disney as a company, this project was made for educational purposes.
+<img width="3000" alt="MacBookAirIphoneDisneySmall" src="https://user-images.githubusercontent.com/86429134/194431933-18e43aff-4566-4063-90f7-d46bd9161ce0.png">
 
-## ScreenShots
-
-![Capture](https://user-images.githubusercontent.com/86429134/133934488-97ab981d-e3da-4d63-abb3-b0d2042ecc5e.JPG)
-![Capture2](https://user-images.githubusercontent.com/86429134/133934490-bad773db-1534-4ab3-acb7-60b5452ab256.JPG)
-![Capture3](https://user-images.githubusercontent.com/86429134/133934493-e3a10d98-c09d-40fa-9501-488303847781.JPG)
 
 ## Available Scripts
 
